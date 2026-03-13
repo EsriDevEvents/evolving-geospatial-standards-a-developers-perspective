@@ -1,7 +1,7 @@
 # Evolving Geospatial Standards a Developers Perspective
 Whether you are a GIS analyst, developer, or integrator, mastering geospatial standards is key to scalable, interoperable solutions. Attend this technical session to learn foundational standards in data, metadata, and web services. See practical Open Geospatial Consortium (OGC) implementations with ArcGIS and third-party tools. Discover how evolving standards with OpenAPI and Swagger modernize APIs, enable cloud-native geoformats, and advance discovery and search in data catalogs.
 
-# Handy URLs
+# Helpful URLs
 
 ### OGC Information   
  - [General Standards Page](https://www.ogc.org/standards/)
@@ -13,12 +13,14 @@ Whether you are a GIS analyst, developer, or integrator, mastering geospatial st
     - [Log an issue with the OGC](https://github.com/OGC-tracker/OGC-Standards-Tracker)
     - [Executable Test Suite - Compliancy Code](https://github.com/orgs/opengeospatial/repositories?q=ets)  
 
-### AGOL Demo Endpoint - [OGC API Feature](https://servicesqa1.arcgis.com/yJ9v68Mw6cm6VlIR/arcgis/rest/services/Portland_01/OGCFeatureServer?f=html)
+### AGOL Demo Endpoint - [Portland OGC API Feature Server](https://servicesqa1.arcgis.com/yJ9v68Mw6cm6VlIR/arcgis/rest/services/Portland_01/OGCFeatureServer?f=html)
 
 ### Swagger - [Swaggerhub](https://app.swaggerhub.com/search)
 
-### Pro Information 
- - [Publish for Enterprise](https://enterprise.arcgis.com/en/server/latest/publish-services/windows/ogc-features-service.htm)
+### ESRI Information 
+ - [OGC Portal for ArcGIS](https://enterprise.arcgis.com/en/portal/latest/use/ogc.htm)
+ - [OGC Support in ArcGIS Enterprise](https://enterprise.arcgis.com/en/server/latest/publish-services/windows/ogc-support-in-arcgis-server.htm)
+ - [OGC in ArcGIS Online](https://doc.arcgis.com/en/arcgis-online/reference/ogc.htm)
  - [Publish for AGOL](https://doc.arcgis.com/en/arcgis-online/manage-data/publish-wfs.htm)
  - [Consume OGC Services](https://pro.arcgis.com/en/pro-app/latest/help/data/services/use-ogc-api-services.htm)
 
@@ -31,6 +33,7 @@ Whether you are a GIS analyst, developer, or integrator, mastering geospatial st
   - [Code](https://github.com/richiecarmichael/presentations/blob/master/2026-developer-summit/exploring-ogc-apis-in-arcgis/dutch-windmils.html)
 
 ### ArcGIS Maps SDK for .NET
+- [OgcFeatureCollectionTable Reference](https://developers.arcgis.com/net/api-reference/api/ios/Esri.ArcGISRuntime/Esri.ArcGISRuntime.Data.OgcFeatureCollectionTable.html)
 - [Browse an OGC API Feature Service](https://developers.arcgis.com/net/wpf/sample-code/browse-ogc-api-feature-service/)
 - [Display an API Collection](https://developers.arcgis.com/net/wpf/sample-code/display-ogc-api-collection/)
 - [Query with CQL Filters](https://developers.arcgis.com/net/wpf/sample-code/query-with-cql-filters/)
@@ -40,3 +43,5 @@ Whether you are a GIS analyst, developer, or integrator, mastering geospatial st
   - [Source Data](https://demo.ldproxy.net/zoomstack)
   - [Code](https://github.com/richiecarmichael/presentations/blob/master/2026-developer-summit/exploring-ogc-apis-in-arcgis/uk-airports.html)
   
+### ArcGIS API for Python
+ - [Publishing and Consuming OGC Services](https://developers.arcgis.com/python/latest/samples/publish-ogc-services)
